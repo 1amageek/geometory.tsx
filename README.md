@@ -1,7 +1,7 @@
 # geometory.tsx
 
 
-```typescript
+```tsx
 
 const Component = () => {
   const [ref, size] = useSize<HTMLDivElement>()
