@@ -1,5 +1,12 @@
 # geometory.tsx
 
+## Installation
+
+```
+npm add @1amageek/geometory.tsx
+```
+
+## Usage
 
 ```tsx
 
