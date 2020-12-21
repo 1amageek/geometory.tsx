@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm add @1amageek/geometory.tsx
+npm add @1amageek/geometory
 ```
 
 ## Usage
