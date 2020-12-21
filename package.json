@@ -1,5 +1,5 @@
 {
-  "name": "@1amageek/geometory.tsx",
+  "name": "@1amageek/geometory",
   "version": "1.0.0",
   "description": "Hooks to get Geometory in React",
   "main": "lib/index.js",
