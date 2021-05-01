@@ -1,6 +1,6 @@
 {
 	"name": "@1amageek/geometory",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Hooks to get Geometory in React",
 	"main": "lib/index.js",
 	"scripts": {
@@ -30,5 +30,6 @@
 	"peerDependencies": {
 		"react": "*"
 	},
+	"type": "module",
 	"private": false
 }
